@@ -29,6 +29,7 @@ Webpage for user to input a rune type, and output ML prediction into a Webpage. 
 
 
 Tableau workbook
+Tableau Public Link: https://public.tableau.com/app/profile/jack.guo4626/viz/OSRSRunes/Story1
 Embed .HTML 
 
 #### Use AWS to Create our RDS
